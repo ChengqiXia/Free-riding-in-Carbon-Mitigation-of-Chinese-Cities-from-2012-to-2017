@@ -1,5 +1,5 @@
 
-The code is for  Free riding in Carbon Mitigation of Chinese Cities from 2012 to 2017
+The code is for Outsourced Carbon Mitigation for Chinese Cities from 2012 to 2017
 
 Newbie for Github
 
